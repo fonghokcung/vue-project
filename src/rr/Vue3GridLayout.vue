@@ -77,6 +77,7 @@ const Vue3GridLayoutData = ref({
 <style scoped lang="scss">
 .vue-grid-layout {
     background: #eee;
+    padding-bottom: 50vh;
 }
 
 .vue-grid-item:not(.vue-grid-placeholder) {
