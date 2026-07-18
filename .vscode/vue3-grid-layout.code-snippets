@@ -1,0 +1,21 @@
+{
+  "sniVue": {
+    "scope": "vue",
+    "prefix": "sniVue",
+    "body": [
+      "<script setup>",
+      "",
+      "</script>",
+      "<template>",
+      "  <section class=\"dotVUE\">",
+      "  </section>",
+      "</template>",
+      "<style lang=\"scss\">",
+      ".dotVUE{",
+      "",
+      "}",
+      "</style>"
+    ],
+    "description": "Vue 3 模板"
+  }
+}
